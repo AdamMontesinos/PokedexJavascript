@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(48, 48, 48);
+}
+
+.textiño{
+    color: aliceblue;
+    padding: 15px;
+}
+
+tr, td {
+    border-bottom: 1px solid #ddd;
+    padding: 15px;
+    text-align: left;
+  }
+
+.buttonred{
+    background-color: rgb(216, 216, 216);
+    color: black;
+    border: 2px solid #eb522c; 
+    border-radius: 8px;
+    padding: 26px 34px 26px 34px;
+    font-size: 20px;
+    margin: 20px;
+    box-shadow: 6px 6px;
+}
+
+.buttonblue{
+    background-color: rgb(216, 216, 216);
+    color: black;
+    border: 2px solid #2c2feb; 
+    border-radius: 8px;
+    padding: 26px 34px 26px 34px;
+    font-size: 20px;
+    margin: 20px;
+    box-shadow: 6px 6px;
+}
+
+.buttongreen{
+    background-color: rgb(216, 216, 216);
+    color: black;
+    border: 2px solid #45df1e; 
+    border-radius: 8px;
+    padding: 26px 34px 26px 34px;
+    font-size: 20px;
+    margin: 20px;
+    box-shadow: 6px 6px;
+}
+
+.buttonyellow{
+    background-color: rgb(216, 216, 216);
+    color: black;
+    border: 2px solid #e8eb2c; 
+    border-radius: 8px;
+    padding: 26px 34px 26px 34px;
+    font-size: 20px;
+    margin: 20px;
+    box-shadow: 6px 6px;
+}
+
+
+.buttonpink{
+    background-color: rgb(216, 216, 216);
+    color: black;
+    border: 2px solid #e925e9; 
+    border-radius: 8px;
+    padding: 26px 34px 26px 34px;
+    font-size: 20px;
+    margin: 20px;
+    box-shadow: 6px 6px;
+}
+
+
+.resultat{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    margin: 10px 20px 10px 20px;
+}
